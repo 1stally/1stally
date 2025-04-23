@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ally (@1stally)
-- 👀 I’m interested in innovation, founding, technology, UX/UI Design & People.
-- 🌱 I’m currently learning Filmmaking, Founding, Entrepreneurship, Swift & Large Scaled Systems.
-- 💞️ I’m looking to collaborate on a native Application
+- 👋 Hi, I’m Aliena (@1stally)
+- 👀 I’m interested in innovation, technology, Film and Movies & People.
+- 🌱 I’m currently learning Presenting, AI, Swift & Large Scaled Systems.
+- 💞️ I’m looking to collaborate on a native Applications or Web Based Projects with Typo3
 
 <!---
 1stally/1stally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
